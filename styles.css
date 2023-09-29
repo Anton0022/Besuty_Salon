@@ -1,0 +1,43 @@
+.content-wrapper {
+    width: 1110px;
+    margin: 0 auto;
+ }
+ 
+ .logo {
+ font-size: 30px;
+ font-weight: 1000;
+ color: #333333;
+ }
+ 
+ .wrapper-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ 
+ .navigation {
+    list-style: none;
+    padding: 0;
+    display: flex;
+ }
+ 
+ .navigation-item {
+    padding: 0 8px 0 8px;
+ }
+ 
+ .navigation-link {
+    color: #333333;
+    text-decoration: none;
+ }
+ 
+ .navigation-link:visited {
+    color: #333333;
+ }
+ 
+ .navigation-link:hover {
+    color: #00BF78;
+ }
+ 
+ .head1 {
+ 
+ }

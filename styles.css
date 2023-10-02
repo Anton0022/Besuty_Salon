@@ -28,7 +28,7 @@ a {
 
 /* HEADER */
 .header {
-    background: url();
+    background: url("./images/bg.jpg") no-repeat;
 }
  
  .wrapper-top {
